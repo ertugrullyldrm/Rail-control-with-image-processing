@@ -1,6 +1,3 @@
-Sure, here's it written in GitHub README file format:
-
----
 
 # Railway Error Detection System
 
